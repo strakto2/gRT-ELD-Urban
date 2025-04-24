@@ -2,7 +2,7 @@
 
 This repository contains selected scripts and data files used for the simulations in the IEEE TAP article:
 
-**"A Hybrid Graphical Ray Tracing with Edge-based Light Diffraction for Radio Propagation in 3D Urban Environments"**  
+**"s"**  
 to appear in *IEEE Transactions on Antennas and Propagation*, 2025.  
 DOI: [10.XXXX/IEEE.TAP.2025.XXXXX](https://doi.org/10.XXXX/IEEE.TAP.2025.XXXXX)
 
